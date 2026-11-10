@@ -11,7 +11,8 @@ The system was installed in four real classrooms and achieved an **8.08% reducti
 CoMo was developed as a team thesis project in Electronics Engineering at Pontificia Universidad Javeriana Cali (Colombia).
 
 - Santiago Colorado Ochoa
-- Diego Ardila
+- Diego Alejandro Ardila Penagos
+- Daniel Alejandro Chilito Arcila
 
 Original repository: https://github.com/Dalejandro02/CoMo
 
